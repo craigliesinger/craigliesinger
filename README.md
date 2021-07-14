@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @craigliesinger
+- 👀 I’m interested in anything creative and innovative
+- 🌱 I’m currently learning Svelte & ARKit / Reality Kit
+- 📫 How to reach me ... www.craigliesinger.com
